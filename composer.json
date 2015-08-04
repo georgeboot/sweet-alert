@@ -19,7 +19,7 @@
             "UxWeb\\SweetAlert\\": "src/SweetAlert/"
         },
         "files": [
-          "src/SweetAlert/functions.php"
+          "src/UxWeb/SweetAlert/functions.php"
         ]
     },
     "minimum-stability": "stable"

@@ -30,6 +30,6 @@ class SweetAlertServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        require_once 'functions.php';
+        //
     }
 }

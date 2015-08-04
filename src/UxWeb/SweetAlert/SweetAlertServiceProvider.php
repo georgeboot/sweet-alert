@@ -30,6 +30,6 @@ class SweetAlertServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        //
+        $this->package('uxweb/sweet-alert', 'sweet');
     }
 }
